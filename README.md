@@ -1,4 +1,4 @@
-# Python-Interactive-Flag-Widget
+# Interactive-Flag-Widget
 
 This project was done in collaboration with Tiffany Roberti for a graduate course in scientific computing (AMS 595) at Stony Brook University during the fall 2017 semester. 
 
